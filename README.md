@@ -1,7 +1,6 @@
 ![Header](./assets/github-header-banner.png)
 
 <div align="center">
-  <h1>Dani Vorobiev</h1>
   <p>
     Frontend engineer building thoughtful web products with React, TypeScript, and a practical full-stack mindset.
   </p>
