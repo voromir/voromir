@@ -31,7 +31,7 @@ I write about development, tooling, and learning in public, and I am especially 
 
 I share notes, articles, and resources on my site:
 
-- [voromir.github.io](https://voromir.blog/#blog)
+- [voro.blog](https://voro.blog/#blog)
 
 ## Music is my passion 🎶
 
