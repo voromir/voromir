@@ -1,4 +1,4 @@
-![Header](./assets/github-header-banner.png)
+![Header](./assets/github-header-banner-2.png)
 
 <div align="center">
   <p>
