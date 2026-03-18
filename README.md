@@ -1,13 +1,40 @@
-👋 Hi, I’m @voromir
+![Header](./assets/github-header-banner.png)
 
-👀 I’m a Frontend Developer, though I enjoy building Full Stack projects.
+<div align="center">
+  <h1>Dani Vorobiev</h1>
+  <p>
+    Frontend engineer building thoughtful web products with React, TypeScript, and a practical full-stack mindset.
+  </p>
+  <p>
+    <a href="https://voro.blog/">Website</a> •
+    <a href="https://www.linkedin.com/in/daniil-vorobiev/">LinkedIn</a> •
+  </p>
+</div>
 
-🤖 I'm an AI enthusiast, constantly learning and finding ways to integrate AI into my workflow.
+## About
 
-🌱 My core stack is React, Redux, and TypeScript.
+I build interfaces that are clear, fast, and maintainable. My core background is frontend engineering, but I also enjoy working across the stack when the product calls for it.
 
-💞️ I’m looking to collaborate on interesting open-source or creative projects.
+I write about development, tooling, and learning in public, and I am especially interested in using AI to improve engineering workflows without adding noise.
 
-📫 How to reach me: voro.blog
+## Focus
 
-⚡ Fun fact: I studied philosophy at university, which helps me approach code with a unique perspective.
+- Building polished web experiences with React and TypeScript
+- Turning product ideas into usable, maintainable interfaces
+- Exploring practical AI tooling for developer productivity
+- Collaborating on open-source and creative side projects
+
+## Stack
+
+`React` `TypeScript` `Redux` 
+
+## Writing
+
+I share notes, articles, and resources on my site:
+
+- [voromir.github.io](https://voromir.blog/#blog)
+
+## Music is my passion 🎶
+
+You will find several music-related projects on my profile. I enjoy both music and programming, and combining the two is one of the most rewarding ways for me to build.
+
