@@ -25,13 +25,17 @@ I write about development, tooling, and learning in public, and I am especially 
 
 ## Stack
 
-`React` `TypeScript` `Redux` 
+`React` `TypeScript` `Redux` `NodeJS` `Tailwind`
+
+## Curretly working on
+
+- [Strava Explorer Application](https://github.com/voromir/strava-explorer)
 
 ## Writing
 
 I share notes, articles, and resources on my site:
 
-- [voro.blog](https://voro.blog/#blog)
+- [voro.blog](https://voro.blog/)
 
 ## Music is my passion 🎶
 
